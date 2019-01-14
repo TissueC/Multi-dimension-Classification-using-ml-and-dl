@@ -5,7 +5,7 @@ the data set is so large that Principle Component Analysis is necessary to reduc
 
 reducing dimension 
 
-## Generate the training data set and test data set
+# Generate the training data set and test data set
 date_preprocessing.py is to generate 
 
 
