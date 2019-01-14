@@ -11,9 +11,12 @@ date_preprocessing.py is to generate
 
 # Prediction
 >svm.py in SVM directory.
-logistic.py in LR in LR directory.
-mlp.py in MLP in MLP directory.
+
+>logistic.py in LR in LR directory.
+
+>mlp.py in MLP in MLP directory.
 
 # result drawing
 >the drawing data generator program is plot_xx_data.py
-the drawing program is plot_xx.py
+
+>the drawing program is plot_xx.py
