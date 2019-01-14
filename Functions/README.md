@@ -20,3 +20,7 @@ date_preprocessing.py is to generate
 >the drawing data generator program is plot_xx_data.py
 
 >the drawing program is plot_xx.py
+
+# other py files
+plot_pcd_3d is downloaded in sklearn.
+sigmoid_plot is to shown the sigmoid function, ignore this in most time.  
