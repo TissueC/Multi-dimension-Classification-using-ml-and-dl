@@ -5,15 +5,15 @@ the data set is so large that Principle Component Analysis is necessary to reduc
 
 reducing dimension 
 
-# Generate the training data set and test data set
+## Generate the training data set and test data set
 date_preprocessing.py is to generate 
 
 
-## Prediction
+# Prediction
 >svm.py in SVM directory.
 >logistic.py in LR in LR directory.
 >mlp.py in MLP in MLP directory.
 
-## result drawing
+# result drawing
 >the drawing data generator program is plot_xx_data.py
 >the drawing program is plot_xx.py
